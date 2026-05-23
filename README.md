@@ -1,7 +1,11 @@
 # 💫 About Me:
-I am a Full Stack Web Developer<br>Interested in building Websites<br>Love to analyze problems and solve them<br>
+Hey there! 👋 I am **Pritom**, a passionate Full-Stack Web Developer dedicated to building clean, efficient, and user-centric web applications. I love diving into complex problems and turning them into robust code.
 
+- 🚀 **What I Do:** Specialize in building dynamic web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js) and **Next.js**.
+- 🛠️ **Current Focus:** Developing scalable backend systems, optimizing database architecture, and building interactive frontend user experiences.
+- 💡 **Core Philosophy:** Clean code, modular design, and continuous learning.
 
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Pritom Saha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pritom saha) 
 
